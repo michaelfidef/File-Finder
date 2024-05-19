@@ -1,0 +1,12 @@
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\bin\Debug\File Finder.exe.config
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\bin\Debug\File Finder.exe
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\bin\Debug\File Finder.pdb
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\bin\Debug\File Finder.xml
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File Finder.vbproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File_Finder.Form1.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File_Finder.Resources.resources
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File Finder.vbproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File Finder.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File Finder.exe
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File Finder.xml
+C:\Users\ASUS\OneDrive - Duta Wacana Christian University\Documents\6th semester\Pemrograman Desktop\source\repos\File Finder\File Finder\obj\Debug\File Finder.pdb
